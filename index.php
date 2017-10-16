@@ -6,4 +6,11 @@
 		public function index(){
 			
 		}
+		public function __construct(){
+
+		}
+		public function __clone(){
+
+		}
+		
 	}
