@@ -14,3 +14,5 @@
 		}
 		
 	}
+	$obj = new student();
+	var_dump($obj);
